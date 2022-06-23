@@ -24,3 +24,5 @@ const fetchData = async () => {
 }
  
 fetchData();
+
+// The return is from the examples -> 2-basic-api -> index.html.
